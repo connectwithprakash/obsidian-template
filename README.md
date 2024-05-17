@@ -18,7 +18,7 @@ This is the directory structure of my Obsidian vault.
 
 
 ```
-/
+vault/
 |-- 📂 Inbox  						    # A place for quick notes and ideas that haven't been processed yet.
 |-- 📂 Daily Notes  				    # Notes for each day including journal, typically using Obsidian's daily notes feature.
 |-- 📂 Reading  					    # Notes related to reading materials.
